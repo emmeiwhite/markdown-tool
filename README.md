@@ -6,4 +6,4 @@
 
 2. npm install && npm start
 
-![MarkDown Play Ground](markdown.jpg)
+![Markdown Output ](https://i.imgur.com/hXqQLay.jpg)
